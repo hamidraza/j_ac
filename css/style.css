@@ -1,0 +1,24 @@
+@import url("cssreset-min.css");
+
+
+body {
+	font-family:arial;
+	font-size:12px;
+	margin:0;
+	padding:0;
+	border:none;
+}
+* {
+	outline:none;
+}
+.field {
+	border:1px solid #ccc;
+	padding:3px 5px;
+	width: 300px;
+}
+form .lbl {
+	display:block;
+}
+form ul li {
+	margin:5px 0;
+}
